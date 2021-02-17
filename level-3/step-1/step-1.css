@@ -4,6 +4,7 @@
     width: 100%;
     height: 200px;
     position: relative;
+    background-color: #f2efe5;
 }
 
 
@@ -28,7 +29,6 @@
 
 .menu-icon {
     width: 60%;
-
 }
 
 .logo {
@@ -60,7 +60,7 @@
 
 .bottom-container {
     width: 100%;
-    height: 60px;
+    height: 90px;
     position: absolute;
     text-align: center;
     bottom: -30px;
@@ -69,6 +69,10 @@
 
 
 .shop-icon {
-    width: 350px;
+    width: 140px;
+    height: 100px;
+    margin-bottom: 100px;
 }
+
+
 
